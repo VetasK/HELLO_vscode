@@ -1,0 +1,11 @@
+@import "_header";
+body {
+    font-size: 30px;
+    div {
+        font-size: 10px;
+    }
+}
+.block {
+    &__item {
+    }
+}
